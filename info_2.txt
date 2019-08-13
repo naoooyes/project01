@@ -1,5 +1,5 @@
 New Update Soon.
-31
+30
 http://18.221.3.187/GC_Master_V47/Gamers_Control/total_online/Live.php
 http://18.221.3.187/GC_Master_V47/Gamers_Control/total_users/total.php
 http://18.221.3.187/GC_Master_V47/Gamers_Control/total_visit/index.php
